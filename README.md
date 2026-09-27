@@ -6,6 +6,15 @@ The application follows the provided design reference while implementing dynamic
 
 ---
 
+## Author
+
+**Harshali Nikumbh**  
+B.Tech ENTC | Full Stack Development
+
+This project was developed as part of the Feedants Full Stack Development Internship technical assignment.
+
+**GitHub:** https://github.com/harshali-nikumbh
+
 ## Tech Stack
 
 ### Frontend
